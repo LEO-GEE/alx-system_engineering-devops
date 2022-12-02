@@ -1,2 +1,2 @@
-the codes are perfect
-
+#!/bin/bash
+pwd
